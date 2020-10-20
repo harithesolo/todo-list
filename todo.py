@@ -63,7 +63,7 @@ if __name__ == '__main__':
     label = tkinter.Label(app, text="Enter work to do:",
                           wraplength = 200,
                           justify = tkinter.LEFT)
-    label_hour = tkinter.Label(app, text="Enter time (secondes)",
+    label_hour = tkinter.Label(app, text="Enter time (In seconds)",
                                wraplength = 200,
                                justify = tkinter.LEFT)
     todo = tkinter.Entry(app, width=30)
